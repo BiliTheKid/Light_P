@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Light_P</string>
+    <string name="on_Click">On click</string>
+    <string name="on_change">On change</string>
+</resources>
